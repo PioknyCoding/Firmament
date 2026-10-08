@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 [versions]
-minecraft = "26.1.2"
+minecraft = "26.2"
 
 # Update from https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/
 fabric_kotlin = "1.13.12+kotlin.2.4.0"
